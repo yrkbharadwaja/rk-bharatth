@@ -1,2 +1,2 @@
-# rk-bharatth
+# rk-bharath
 practice purpose 
